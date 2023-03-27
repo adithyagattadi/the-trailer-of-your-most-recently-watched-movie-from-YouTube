@@ -1,0 +1,368 @@
+.div1{
+    width: 25px;
+    height: 3px;
+    background-color: black;
+    margin: 6px 0;
+}
+.div2{
+    width: 25px;
+    height: 3px;
+    background-color: black;
+    margin: 6px 0;
+}
+.div3{
+    width: 25px;
+    height: 3px;
+    background-color: black;
+    margin: 6px 0;
+}
+.yt{
+    position: absolute;
+    top: 0.5pc;
+    left: 3.5pc;
+}
+.sbox{
+    padding: 10px;
+    margin: 10px;
+    border-radius: 10px;
+    background-color: rgb(229, 241, 245);
+    position: absolute;
+    top: 10px;
+    left: 400px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.search{
+    position: absolute;
+    top: 30px;
+    left: 880px;
+}
+.microphone{
+    background-color: rgb(229, 241, 245);
+    border-radius: 20px;
+    padding: 10px;
+    position: absolute;
+    top: 22px;
+    left: 930px;
+}
+.bell{
+    background-color: rgb(229, 241, 245);
+    border-radius: 20px;
+    padding: 5px;
+    position: absolute;
+    top: 10px;
+    left: 1270px;
+}
+.videocamera{
+    background-color: rgb(229, 241, 245);
+    border-radius: 20px;
+    padding: 5px;
+    position: absolute;
+    top: 15px;
+    left: 1200px;
+}
+.glogo{
+    background-color: green;
+    border-radius: 20px;
+    padding: 5px;
+    position: absolute;
+    top: 12px;
+    left: 1340px;
+}
+.sinister{
+    background-color: black;
+    padding-top: 70px;
+    padding-bottom: 70px;
+    position: absolute;
+    top: 80px;
+    left: 40px;
+}
+.redline{
+    position: absolute;
+    top: 560px;
+    left: 50px;
+    width: 970px;
+    height: 3px;
+    background-color: red;
+    margin: 6px 0;
+}
+.playbutton{
+    position: absolute;
+    top: 580px;
+    left: 60px;
+}
+.forward{
+    position: absolute;
+    top: 578px;
+    left: 110px;
+}
+.volume{
+    position: absolute;
+    top: 582px;
+    left: 160px;
+}
+.time{
+    font-size: small;
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+    position: absolute;
+    top: 570px;
+    left: 200px;
+}
+.autoplay{
+    position: absolute;
+    top: 570px;
+    left: 700px;
+}
+.cc{
+    position: absolute;
+    top: 580px;
+    left: 765px;
+}
+.settings{
+    position: absolute;
+    top: 585px;
+    left: 820px;
+}
+.fullscreen{
+    position: absolute;
+    top: 585px;
+    left: 980px;
+}
+.miniplayer{
+    position: absolute;
+    top: 575px;
+    left: 870px;
+}
+.theatremode{
+    position: absolute;
+    top: 585px;
+    left: 920px;
+}
+.sot{
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    position: absolute;
+    top: 610px;
+    left: 50px;
+}
+.logo{
+    position: absolute;
+    top: 650px;
+    left: 50px;
+}
+.RTT{
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    position: absolute;
+    top: 645px;
+    left: 110px;
+}
+.sub{
+    color: dimgrey;
+    font-size: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+    position: absolute;
+    top: 675px;
+    left: 110px;
+}
+.subscribe{
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: rgb(229, 241, 245);
+    border-radius: 20px;
+    padding: 8px;
+    position: absolute;
+    top: 650px;
+    left: 350px;
+}
+.thumbsup{
+    background-color: rgb(229, 241, 245);
+    border-radius: 20px;
+    padding-left: 5px;
+    padding-top: 5px;
+    padding-right: 80px;
+    position: absolute;
+    top: 670px;
+    left: 500px;
+
+}
+.thumbsdown{
+    position: absolute;
+    top: 680px;
+    left: 600px;
+}
+.share{
+    background-color: rgb(229, 241, 245);
+    border-radius: 20px;
+    padding-left: 5px;
+    padding-top: 5px;
+    padding-right: 30px;
+    position: absolute;
+    top: 670px;
+    left: 650px;
+}
+.clip{
+    background-color: rgb(229, 241, 245);
+    border-radius: 30px;
+    padding-left: 10px;
+    padding-top: 10px;
+    padding-right: 10px;
+    position: absolute;
+    top: 670px;
+    left: 760px;
+}
+.save{
+    background-color: rgb(229, 241, 245);
+    border-radius: 30px;
+    padding-left: 15px;
+    padding-top: 10px;
+    padding-right: 10px;
+    position: absolute;
+    top: 670px;
+    left: 840px;
+}
+.dot{
+    background-color: rgb(229, 241, 245);
+    padding: 10px;
+    border-radius: 30px;
+    padding-left: 15px;
+    padding-top: 10px;
+    padding-right: 10px;
+    position: absolute;
+    top: 658px;
+    left: 940px;
+}
+.views{
+    background-color: rgb(229, 241, 245);
+    padding: 0px;
+    padding-right: 400px;
+    border-radius: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+    position: absolute;
+    top: 710px;
+    left: 30px;
+}
+.img1{
+    position: absolute;
+    top: 120px;
+    left: 1070px;
+}
+.cap1{
+    font-size: 18px;
+    font-family: Arial, Helvetica, sans-serif;
+    position: absolute;
+    top: 90px;
+    left: 1220px;
+}
+.a1{
+    color: black;
+}
+.a2{
+    color: black;
+}
+.a3{
+    color: black;
+}
+.a4{
+    color: black;
+}
+.a5{
+    color: black;
+}
+.a6{
+    color: black;
+}
+.img2{
+    position: absolute;
+    top: 230px;
+    left: 1070px;
+}
+.cap2{
+    color: black;
+    font-size: 18px;
+    font-family: Arial, Helvetica, sans-serif;
+    position: absolute;
+    top: 200px;
+    left: 1220px;
+}
+.img3{
+    position: absolute;
+    top: 340px;
+    left: 1070px;
+}
+.cap3{
+    font-size: 18px;
+    font-family: Arial, Helvetica, sans-serif;
+    position: absolute;
+    top: 310px;
+    left: 1220px;
+}
+.img4{
+    position: absolute;
+    top: 450px;
+    left: 1070px;
+}
+.cap4{
+    font-size: 18px;
+    font-family: Arial, Helvetica, sans-serif;
+    position: absolute;
+    top: 420px;
+    left: 1220px;
+}
+.img5{
+    position: absolute;
+    top: 560px;
+    left: 1070px;
+}
+.cap5{
+    font-size: 18px;
+    font-family: Arial, Helvetica, sans-serif;
+    position: absolute;
+    top: 530px;
+    left: 1220px;
+}
+.img6{
+    position: absolute;
+    top: 670px;
+    left: 1070px;
+}
+.cap6{
+    font-size: 18px;
+    font-family: Arial, Helvetica, sans-serif;
+    position: absolute;
+    top: 640px;
+    left: 1220px;
+}
+.all{
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: rgb(229, 241, 245);
+    padding: 8px;
+    border-radius: 10px;
+    position: absolute;
+    top: 50px;
+    left: 1070px;
+}
+.fys{
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: rgb(229, 241, 245);
+    padding: 8px;
+    border-radius: 10px;
+    position: absolute;
+    top: 50px;
+    left: 1110px;
+}
+.rrt{
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: rgb(229, 241, 245);
+    padding: 8px;
+    border-radius: 10px;
+    position: absolute;
+    top: 50px;
+    left: 1260px;
+}
+.gt{
+    position: absolute;
+    top: 55px;
+    left: 1450px;
+}
